@@ -1,0 +1,22 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatalijaRadic/ZavrsniRad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatalijaRadic/ZavrsniRad/issues"
+  },
+  "homepage": "https://github.com/NatalijaRadic/ZavrsniRad#readme",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
